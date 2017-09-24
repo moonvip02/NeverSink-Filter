@@ -768,7 +768,7 @@ Show # %H4 %TB-Currency-T5
 	SetBorderColor 190 178 135 110       # BORDERCOLOR:	 T2 LOW currency
 	SetBackgroundColor 0 0 0 255         # BACKGROUND:	 T6-10 maps, currency, talismans
 
-Hide # %H2 %TB-Currency-T6
+Show # %H2 %TB-Currency-T6
 	Class Currency
 	BaseType "Armourer's Scrap" "Orb of Augmentation" "Transmutation Shard" "Alteration Shard"
 	SetFontSize 40
@@ -776,7 +776,7 @@ Hide # %H2 %TB-Currency-T6
 	SetBorderColor 60 50 30 255          # BORDERCOLOR:	 T3 LOW currency
 	SetBackgroundColor 0 0 0 255         # BACKGROUND:	 T6-10 maps, currency, talismans
 
-Hide # %H3 %TB-Currency-T7
+Show # %H3 %TB-Currency-T7
 	Class Currency
 	BaseType "Portal Scroll"
 	SetFontSize 36
